@@ -312,7 +312,7 @@ After completing this challenge, I can confidently say:
 
 *IBM Z Xplore — PDS1 Challenge | Advanced Level | Completed ✅*
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/More%20Projects-GitHub-181717?style=for-the-badge&logo=github)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anandsundar96)
+[![GitHub](https://img.shields.io/badge/More%20Projects-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/anandsundar)
 
 </div>
